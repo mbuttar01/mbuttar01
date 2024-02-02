@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mbuttar01
 - 👀 I’m interested in Computer Science and solving complex problems using technology.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Go.
 - 📫 How to reach me muhammad-buttar@outlook.com
 
 <!---
